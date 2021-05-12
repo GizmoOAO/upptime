@@ -58,17 +58,17 @@
     "url": "https://bw.lumina.moe/",
     "icon": "https://favicons.githubusercontent.com/bw.lumina.moe",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 343,
-    "timeWeek": 1122,
-    "timeMonth": 662,
-    "timeYear": 447,
+    "time": 446,
+    "timeDay": 354,
+    "timeWeek": 1046,
+    "timeMonth": 653,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   }
 ]
