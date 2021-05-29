@@ -55,20 +55,20 @@
   },
   {
     "name": "Bitwarden",
-    "url": "https://bw.lumina.moe/",
-    "icon": "https://favicons.githubusercontent.com/bw.lumina.moe",
+    "url": "https://bw-lumina-moe.vercel.app/",
+    "icon": "https://favicons.githubusercontent.com/bw-lumina-moe.vercel.app",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 774,
-    "timeWeek": 666,
-    "timeMonth": 702,
-    "timeYear": 467,
+    "time": 479,
+    "timeDay": 1181,
+    "timeWeek": 781,
+    "timeMonth": 728,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   }
 ]
