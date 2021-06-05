@@ -11,7 +11,7 @@ sites:
   - name: utterances
     url: https://utterances.liuli.lol/
   - name: Bitwarden
-    url: https://bw-lumina-moe.vercel.app/
+    url: https://bw.lumina.moe/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
